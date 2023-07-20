@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohityadav9304
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Machine learning and deeep learning
+- 👀 I’m interested in Artificial intelligence 
+- 🌱 I’m currently working on Machine learning and deeep learning projects 
 -
 - 📫 How to reach me 
 : Website : expertx24.com
